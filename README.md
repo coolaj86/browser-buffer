@@ -3,7 +3,7 @@ Buffer
 
 The goal is to use `UInt8Array` as a buffer backend that completely follows the Node.JS API.
 
-For now, however, this just aliases `Array` as `Buffer` which works for many use caes.
+For now, however, this just aliases `Array` as `Buffer` which works for many use cases.
 
 Current Implementation
 ---
