@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/coolaj86/browser-buffer.png)](http://travis-ci.org/coolaj86/browser-buffer)
 Buffer
 ===
 
